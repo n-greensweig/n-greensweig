@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-greensweig)](https://github.com/anuraghazra/github-readme-stats)
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-greensweig)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm currently working on integrating AI into React applications for use on the web.
 
 <!--
 **n-greensweig/n-greensweig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
