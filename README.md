@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-greensweig&label=Profile%20views&color=0e75b6&style=flat" alt="n-greensweig" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-greensweig" alt="n-greensweig" /></a> </p>
-
 - 🔭 I’m currently working on [SousAI](https://github.com/n-greensweig/sous-ai)
 
 - 🌱 I’m currently learning **C#**
