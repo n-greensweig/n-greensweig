@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">I'm a software developer with [Juniper Re](https://juniperre.com/).</h3>
+<h3 align="center">I'm a software developer with <a href="https://juniperre.com/">Juniper Re</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-greensweig&label=Profile%20views&color=0e75b6&style=flat" alt="n-greensweig" /> </p>
 
