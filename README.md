@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-greensweig&label=Profile%20views&color=0e75b6&style=flat" alt="n-greensweig" /> </p>
 
-- 🔭 I’m currently working on [SousAI](https://github.com/n-greensweig/sous-ai)
-
 - 👨‍💻 All of my projects are available at [https://github.com/n-greensweig](https://github.com/n-greensweig)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **ngreensweig@gmail.com**
 
